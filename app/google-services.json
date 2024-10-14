@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "90124336258",
+    "firebase_url": "https://smartcontainers-a4ecb-default-rtdb.firebaseio.com",
+    "project_id": "smartcontainers-a4ecb",
+    "storage_bucket": "smartcontainers-a4ecb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90124336258:android:28cfd35158fad189b6889b",
+        "android_client_info": {
+          "package_name": "com.graduation.kas.smartcontainer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV7ifp3rV1lFACmhqcxWOwRhQiRHE7EGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

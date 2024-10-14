@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/containers"
+        android:title="Containers" />
+
+
+    <item
+        android:id="@+id/profile"
+        android:title="Update profile" />
+
+
+
+    <item
+        android:id="@+id/password"
+        android:title="Update Password" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout" />
+
+
+
+
+
+
+
+</menu>
